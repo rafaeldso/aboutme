@@ -1,3 +1,9 @@
-theme: jekyll-theme-cayman
-title: Rafael Oliveira
-description: Sou desenvolvedor web e mobile.
+#theme: jekyll-theme-cayman
+remote_theme: nrandecker/particle
+#title: Rafael Oliveira
+#description: Sou desenvolvedor web e mobile.
+
+username : Lorem Ipsum 
+user_description : Engenheiro de Software na Lorem Ipsum Dolor 
+user_title : Mauricio Urraco 
+email : mauriurraco@gmail.com
